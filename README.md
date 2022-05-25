@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vsx007
+- 👀 I’m interested in Blockchain 
+- 🌱 I’m currently learning Javascript, Rust, Solidarity (after I finish Rust)
+- 💞️ I’m looking to collaborate on Anything which involves Blockchain Technology!
+- 📫 You can reach me at vsx@live.in
